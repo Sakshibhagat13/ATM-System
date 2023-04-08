@@ -1,7 +1,6 @@
 ### Hi I"m SAKSHIII 👋
 
-<!--
-**Sakshibhagat13/Sakshibhagat13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -11,3 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java
 - 📫 How to reach me: MailId: sakshibhagat218@gmail.com
 -->
+
